@@ -16,4 +16,4 @@ Mesh Slicer is designed for scanning 3d objects (such as vehicles) and creating 
 
 ## Images
 
-![Slicing a scan](https://github.com/myawesome)
+![Slicing a scan](https://github.com/myawesomebike/mesh-slicer/blob/main/images/slicing.png)
